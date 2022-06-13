@@ -1,5 +1,16 @@
+<#	
+	.NOTES
+	===========================================================================
+	 Created on:   	6/13/2022
+	 Created by:    Noah Huotari
+	 Organization: 	HBS
+	 Filename:     	Get-HyperVReport.ps1
+	===========================================================================
+	.DESCRIPTION
+		Generates HTML report of Hyper-V environments
+#>
 
-#region Help
+#Help
 # ----------
 
 <#
